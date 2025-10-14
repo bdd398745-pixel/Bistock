@@ -1,8 +1,0 @@
-streamlit==1.37.0
-yfinance==0.2.52
-pandas==2.2.2
-numpy==1.26.4
-requests==2.32.3
-matplotlib==3.9.0
-tzdata==2024.1
-streamlit-autorefresh==1.0.1
